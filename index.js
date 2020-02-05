@@ -12,7 +12,7 @@ const accountId = 'dinoaroma';
 //   "jsonrpc": "2.0",
 //     "method": "tx",
 //       "id": "whatever",
-//         "params": ["8Ha8nvE7t1wHB8h5GdzMCnbDfCs9Zg1XeSLHo1umCVPy", "dinoaroma"]
+//         "params": ["2Dfz86KmLmUary8n4LkZjg3ixGsWwnTAd7UTgfrnr4De", "dinoaroma"]
 // }
 async function getTxStatus(txHash, accountId) {
   const outcome = await nearProvider.txStatus(txHash, accountId);

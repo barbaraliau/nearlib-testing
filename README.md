@@ -1,1 +1,15 @@
-Testing nearlib methods
+# Testing nearlib methods
+
+### Testing
+
+Install:
+
+```
+npm install
+```
+
+Run:
+
+```
+node index.js
+```
