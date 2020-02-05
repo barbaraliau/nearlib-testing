@@ -1,0 +1,15 @@
+{
+  "name": "nearlib-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^4.0.1",
+    "nearlib": "^0.21.0"
+  }
+}
